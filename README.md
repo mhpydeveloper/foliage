@@ -1,4 +1,4 @@
 # foliage
 here im gonna use heghi map and foliages
-# TODO:
- add foliage
+
+ collision of the foliage is seted to blockall
